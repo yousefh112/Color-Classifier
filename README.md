@@ -1,4 +1,6 @@
 
+https://github.com/yousefh112/Color-Classifier/assets/95450251/d1d9d921-cd32-4401-b554-0de96c9c48ef
+
 # Color Classifier 🤖
 
 Welcome to the Color Classifier project repository! This project, powered by ROS (Robot Operating System) and OpenCV, is designed to detect and classify colors, triggering corresponding actions by a robotic arm.
@@ -49,7 +51,10 @@ To get started with the Color Classifier project, follow these steps:
 
 Check out our exciting video demonstration to see the Color Classifier project in action:
 
-[Uploading Screencast from 24-04-24 02:29:24.webm…]()
+
+
+Uploading Screencast from 24-04-24 02:29:24.mp4…
+
 
 
 
