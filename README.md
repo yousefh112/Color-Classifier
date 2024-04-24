@@ -48,7 +48,10 @@ To get started with the Color Classifier project, follow these steps:
 ## Video Demonstration
 
 Check out our exciting video demonstration to see the Color Classifier project in action:
+
 [Uploading Screencast from 24-04-24 02:29:24.webm…]()
+
+
 
 ## Contributors
 
