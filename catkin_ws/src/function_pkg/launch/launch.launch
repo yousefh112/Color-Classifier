@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="function_pkg" type="color_classifier" name="color_classifier" output="screen">
+    </node>
+    <node pkg="function_pkg" type="robot_arm" name="robot_arm" output="screen">
+    </node>
+</launch>

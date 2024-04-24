@@ -1,0 +1,8 @@
+prefix=/home/yousef/Color Classifier/catkin_ws/install
+
+Name: function_pkg
+Description: Description of function_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
