@@ -1,5 +1,5 @@
 
-# Color Classifier 🌈🤖
+# Color Classifier 🤖
 
 Welcome to the Color Classifier project repository! This project, powered by ROS (Robot Operating System) and OpenCV, is designed to detect and classify colors, triggering corresponding actions by a robotic arm.
 
@@ -47,7 +47,6 @@ To get started with the Color Classifier project, follow these steps:
 
 ## Video Demonstration
 
-<<<<<<< HEAD
 Check out our exciting video demonstration to see the Color Classifier project in action:[text](<../Videos/Screencast from 24-04-24 02:29:24.webm>)
 
 ## Contributors
