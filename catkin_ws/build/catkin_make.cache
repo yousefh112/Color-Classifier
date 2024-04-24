@@ -1,2 +1,2 @@
 function_pkg
--DCATKIN_DEVEL_PREFIX=/home/yousef/Color Classifier/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yousef/Color Classifier/catkin_ws/install -G Unix Makefiles
+-DCATKIN_DEVEL_PREFIX=/home/yousef/Color Classifier Using ROS/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yousef/Color Classifier Using ROS/catkin_ws/install -G Unix Makefiles
